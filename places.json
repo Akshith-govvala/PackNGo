@@ -1,0 +1,110 @@
+[
+    {
+        "Name": "Taj Mahal",
+        "state": "Agra, Uttar Pradesh",
+        "Description": "An immense mausoleum of white marble, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage.",
+        "                                                                                                 Clothing": "Summer (March to June): Light cotton shirts, sunscreen. Sandals, wide-brimmed hat; Monsoon (July to September): Waterproof clothing, umbrella. Closed-toe shoes, poncho; Autumn (October to November): Light layers, comfortable shoes. Light jacket, sweater; Winter (December to February): Warm layers, hat, gloves. Closed-toe shoes, thermal wear."
+    },
+    {
+        "Name": "Red Fort",
+        "state": "Delhi",
+        "Description": "The Red Fort is one of the most significant monuments in the country. India's Prime Minister hoists the National Flag from the ramparts of the Red Fort each year on Independence Day.",
+        "                                                                                                 Clothing": " Summer(May-July):Light cottons,breathable fabrics,hats;Monsoon (August-September):Waterproof attire,umbrella,closed shoes ;Winter (November-February):Layered clothing,jackets,scarves,and shoes."
+    },
+    {
+        "Name": "Giza Pyramid Complex",
+        "state": "Giza, Egypt",
+        "Description": "The Giza Pyramid Complex includes the Great Pyramid of Giza,These ancient structures are marvels of engineering and are among the most iconic landmarks in the world.",
+        "                                                                                                 Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Great Wall of China",
+        "state": "Huairou District,Beijing",
+        "Description": "Stretching over 13,000 miles, the Great Wall of China is a monumental feat of ancient architecture. Built to protect China from invasions, it is one of the most impressive man-made structures ever built.",
+        "                                                                                                 Clothing": "Summer (June-August): Light, breathable clothing,hats,sunglasses;Winter(December-February):Hoodies,insulated jackets,gloves,Spring/Fall (March-May,September-November): Moderate layers, comfortable shoes."
+    },
+    {
+        "Name": "Machu Picchu",
+        "state": "Historical place in Peru",
+        "Description": "Machu Picchu is an Incan citadel set high in the Andes Mountains in Peru. a secret Incan stronghold used during the 16th-century rebellion against Spanish rule.",
+        "                                                                                                 Clothing": "Summer (December-February): Light,clothing, hats,rain gear;Winter (June-August):Hoodies,jacket, warm layers, gloves.Spring/Fall (March-May,September-November): Moderate layers,  jacket, comfortable shoes."
+    },
+    {
+        "Name": "Christ the Redeemer",
+        "state": "Rio de Janeiro, Brazil",
+        "Description": "Christ the Redeemer (Portuguese: Cristo Redentor), is a statue of Jesus Christ in Rio de Janeiro, Brazil. It was built between 1922 and 1931 and stands 30 metres (98 ft) tall.",
+        "                                                                                                 Clothing": "Summer (December-February): Light clothing, hats, sunglasses;Winter(June-August): Light layers, jacket for cooler evenings.Spring/Fall (March to May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Dzuko Valley",
+        "state": "Nagaland",
+        "Description": "The Dzüko Valley located in between Senapati district of Manipur and Kohima district of Nagaland in Northeast India. This valley is well known for its natural environment, seasonal flowers and flora & fauna.",
+        "                                                                                                 Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Gokarna",
+        "state": "Karnataka",
+        "Description": "Gokarna indeed stands out as a charming coastal town along the western coast of India, Its serene beaches have become hidden gems for travelers seeking offbeat weekend getaways.",
+        "                                                                                                 Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Coorg",
+        "state": "Madikeri, Karnataka",
+        "Description": "Popularly known as the Scotland of India, Located along the western ghats, this famous coffee-producing hill station is well-known for its jaw-dropping ravishing scenery and opulence.",
+        "                                                                                                 Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Ooty",
+        "state": "Tamil Nadu",
+        "Description": "The journey up to Ooty both by the miniature train and by road can be quite romantic with the low temperatures and the scenic views.",
+        "                                                                                                 Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Malvan",
+        "state": "Maharashtra",
+        "Description": "Malvan is a small town in Sindhudurg district of Maharashtra, two-hour journey from Goa.Steady and calm waves make it excellent watersports destination in India.",
+        "                                                                                                 Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Kashmir",
+        "state": "Kashmir",
+        "Description": "Kashmir, known as an epitome for Paradise on Earth, is indeed what it is poetically described. A lot of artists, writers and poets have taken inspiration from the natural beauty of Kashmir and when you visit here",
+        "                                                                                                 Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Kaziranga National Park",
+        "state": "Assam",
+        "Description": "A UNESCO World Heritage Site, with its dense forests, elephant-grass meadows, and swampy lagoons is home to the largest Indian rhinoceros population.Each of these circuits has its own distinguishing feature. ",
+        "                                                                                                 Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Manali",
+        "state": "Himachal Pradesh",
+        "Description": "Manali is one of the most attractive tourist spot not only of Himachal Pradesh, but of International fame. Manali is synonymous streams and birdsong, forests and orchards and grandees of snow-capped mountains.",
+        "                                                                                                 Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Kasol",
+        "state": "Himachal Pradesh",
+        "Description": "Kasol is a village in the Parvati Valley of the Indian state of Himachal Pradesh. Kasol is also famous for its vibrant hippie culture, cafes serving Israeli cuisine, and the serene Parvati River flows through the valley. ",
+        "                                                                                                 Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Badrinath",
+        "state": "Uttarakhand",
+        "Description": "The picturesque town of Badrinath is where divinity meets with the serenity of nature.The pre-eminent abode of Lord Vishnu is one of the holiest of the holy shrines of Char Dham pilgrimage in India. ",
+        "                                                                                                 Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Ladakh",
+        "state": "Himachal Pradesh",
+        "Description": "Ladakh gains a lot of popularity for being the only cold desert in India apart from bordering the World’s highest saltwater Lake Pangong Lake.",
+        "                                                                                                 Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    },
+    {
+        "Name": "Kanyakumari",
+        "state": "Tamil Nadu",
+        "Description": "Kanyakumari is popular for its beautiful beaches, unique Vivekananda Rock Memorial, and stunning sunrise and sunset views. It is also a major pilgrimage center for Hindus.",
+        "                                                                                                 Clothing": "Summer (June-August): Light, breathable clothing, hats, sunglasses;Winter (December-February):Hoodies, jackets,closed shoes,Spring/Fall (March-May, September to November): Moderate layers, comfortable shoes"
+    }
+]
